@@ -1,0 +1,7 @@
+Frontend:
+1- npm start
+Backend:
+2- node ./index.js
+Admin:
+npm run dev
+
